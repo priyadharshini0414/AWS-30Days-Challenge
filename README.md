@@ -81,4 +81,4 @@ This challenge strengthened my practical knowledge in AWS and prepared me for re
 
 ---
 
-⭐ Consistent practice + real hands-on experience = Strong foundation in AWS
+ Consistent practice + real hands-on experience = Strong foundation in AWS
